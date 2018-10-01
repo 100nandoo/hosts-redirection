@@ -14,7 +14,8 @@
 151.101.1.140 old.reddit.com
 151.101.1.140 imagur.reddit.com
 151.101.1.140 ssl.reddit.com
-151.101.1.140 oauth.reddit.com pc.reddit.com
+151.101.1.140 oauth.reddit.com
+151.101.1.140 pc.reddit.com
 151.101.113.140 amp.reddit.com
 
 151.101.38.109 i.vimeocdn.com
@@ -33,7 +34,8 @@
 104.27.214.30 yts.ag
 104.27.208.30 eztv.ag
 104.23.204.30 isohunt.to
-52.73.239.113 netflix.com www.netflix.com
+52.73.239.113 netflix.com
+52.73.239.113 www.netflix.com
 
 # kumpulbagi
 119.81.2.142 kbagi.com www.kbagi.com
@@ -62,6 +64,7 @@
 209.58.183.20 s218.kbagi.com
 209.58.183.21 s219.kbagi.com
 
+# tumblr
 66.6.33.31 www.tumblr.com
 87.248.114.12 assets.tumblr.com
 87.248.114.13 media.tumblr.com

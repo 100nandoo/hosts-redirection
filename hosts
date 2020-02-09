@@ -117,42 +117,36 @@
 151.101.53.140 i.redd.it
 
 # [NETFLIX.COM]
-52.37.69.124 netflix.com www.netflix.com
-35.164.147.207 netflix.com www.netflix.com
-54.71.111.34 netflix.com www.netflix.com
+52.41.244.189 netflix.com www.netflix.com
 54.201.91.38 netflix.com www.netflix.com
-35.160.7.30 netflix.com www.netflix.com
-52.41.20.47 netflix.com www.netflix.com
-50.17.247.31 netflix.co.id www.netflix.co.id
-23.35.181.192 secure.netflix.com
-52.42.49.110 movies.netflix.com
-34.227.70.20 movies1.netflix.com
-54.76.211.129 movies2.netflix.com
-52.88.21.77 cbp-us.nccp.netflix.com
+54.69.16.110 netflix.com www.netflix.com
+52.37.69.124 netflix.com www.netflix.com
+18.236.7.30 netflix.co.id www.netflix.co.id
+45.57.91.1 secure.netflix.com assets.nflxext.com codex.nflxext.com
+18.236.7.30 movies.netflix.com
+44.226.113.145 movies1.netflix.com
+34.218.19.240 movies2.netflix.com ir.netflix.com
+52.43.250.138 cbp-us.nccp.netflix.com
 207.45.72.201 dvd.netflix.com autocomplete.netflix.com bluray.netflix.com
-52.40.161.141 moviecontrol.netflix.com
-34.215.6.52 api.netflix.com
-54.148.48.62 www2.netflix.com
-35.163.147.163 nccp-nrdp-31.cloud.netflix.net
-35.164.199.73 ios.nccp.netflix.com
-34.216.95.171 uiboot.netflix.com
-50.112.169.227 signup.netflix.com
-34.226.85.54 nccp-fuji.cloud.netflix.net nccp-nato.cloud.netflix.net
-184.25.56.220 mcdn.netflix.com
-52.25.210.146 nccp-ps3.cloud.netflix.net
-52.36.6.165 api-user.netflix.com
-45.57.91.1 assets.nflxext.com codex.nflxext.com
-52.32.240.186 ir.netflix.com
-13.249.79.11 media.netflix.com
-54.201.122.47 help.netflix.com
-52.11.96.195 jobs.netflix.com
-207.45.72.215 nflxext.com
-52.37.69.124 nflximg.com
-50.17.247.31 nflxvideo.net
+52.37.243.203 moviecontrol.netflix.com
+34.213.54.57 api.netflix.com
+54.68.2.232 www2.netflix.com
+35.161.93.216 nccp-nrdp-31.cloud.netflix.net nccp-ps3.cloud.netflix.net
+35.163.250.29 ios.nccp.netflix.com
+35.167.237.37 uiboot.netflix.com
+52.41.95.74 signup.netflix.com
+52.207.118.175 nccp-fuji.cloud.netflix.net nccp-nato.cloud.netflix.net
+104.123.71.136 mcdn.netflix.com
+52.24.207.8 api-user.netflix.com
+143.204.29.6 media.netflix.com
+52.38.152.174 help.netflix.com
+34.211.244.70 jobs.netflix.com
+207.45.72.215 nflxext.com nflximg.com
+204.236.236.127 nflxvideo.net
 207.45.72.215 nflximg.net
-54.187.138.220 api-global.netflix.com
-54.69.204.241 ichnaea.netflix.com
-52.35.125.204 account.netflix.com
+52.36.243.167 api-global.netflix.com
+52.42.153.22 ichnaea.netflix.com
+35.160.69.163 account.netflix.com
 
 151.101.38.109 i.vimeocdn.com
 151.101.192.217 developer.vimeo.com
@@ -166,7 +160,7 @@
 
 104.27.216.28 thepiratebay.org
 185.37.100.122 rarbg.to
-104.27.215.28 yts.am img.yts.am
+104.27.215.28 yts.mx img.yts.mx
 104.27.209.30 eztv.ag
 104.23.204.30 isohunt.to
 

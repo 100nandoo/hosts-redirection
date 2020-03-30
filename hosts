@@ -1,4 +1,4 @@
-# [REDDIT.COM]
+# [reddit.com]
 151.101.129.140 reddit.com
 151.101.53.140 www.reddit.com
 151.101.1.140 np.reddit.com
@@ -116,28 +116,21 @@
 151.101.53.140 www.redditstatic.com
 151.101.53.140 i.redd.it
 
-151.101.38.109 i.vimeocdn.com
-151.101.192.217 developer.vimeo.com
-151.101.128.217 www.vimeo.com
-151.101.128.217 vimeo.com
-151.101.38.109 f.vimeocdn.com
-184.50.168.24 secure-c.vimeocdn.com
-151.101.0.217 player.vimeo.com
-198.245.92.39 click.email.vimeo.com
-104.156.85.217 api.vimeo.com
-
-104.27.216.28 thepiratebay.org
+104.24.190.20 thepiratebay.org
 185.37.100.122 rarbg.to
 104.26.1.60 yts.mx img.yts.mx
-104.27.209.30 eztv.ag
+104.27.208.30 eztv.ag
 104.23.204.30 isohunt.to
-
-# tumblr
-66.6.33.31 www.tumblr.com
-87.248.114.12 assets.tumblr.com
-87.248.114.13 media.tumblr.com
 
 104.25.45.113 kissmanga.com www.kissmanga.com
 104.20.26.43 kissanime.ru www.kissanime.ru
-104.25.46.113 kissasian.com www.kissasian.com
+104.25.205.29 kissasian.sh www.kissasian.sh
 104.25.118.22 mangapark.me www.mangapark.me my.mangapark.me h.s.mangapark.me
+
+# [mangapanda.com]
+104.20.162.10 s5.mangapanda.com
+185.86.164.130 mangapanda.com
+104.20.162.10 s1.mangapanda.com
+104.20.163.10 s4.mangapanda.com
+185.86.164.130 www.mangapanda.com
+104.20.163.10 s3.mangapanda.com

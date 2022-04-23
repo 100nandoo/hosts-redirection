@@ -635,9 +635,24 @@
 151.101.13.140 h.reddit.com
 151.101.13.140 www.h.reddit.com
 
+# [thepiratebay.org]
+162.159.136.6 m.thepiratebay.org
 162.159.137.6 www.thepiratebay.org
-162.159.137.6 thepiratebay.or
+162.159.137.6 thepiratebay.org
+162.159.137.6 200.thepiratebay.org
+162.159.137.6 ns0.thepiratebay.org
+162.159.137.6 static.thepiratebay.org
+162.159.137.6 upl.thepiratebay.org
+162.159.137.6 tracker.thepiratebay.org
+162.159.137.6 a.tracker.thepiratebay.org
+162.159.137.6 tpb.tracker.thepiratebay.org
+162.159.137.6 open.tracker.thepiratebay.org
+162.159.137.6 vip.tracker.thepiratebay.org
+162.159.137.6 tv.tracker.thepiratebay.org
+162.159.137.6 eztv.tracker.thepiratebay.org
 162.159.137.6 rss.thepiratebay.org
+162.159.137.6 torrents.thepiratebay.org
+162.159.137.6 upload.thepiratebay.org
 
 172.67.146.47 eztv.ag
 172.67.146.47 www.eztv.ag

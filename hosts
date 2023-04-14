@@ -1,3 +1,4 @@
+
 # [reddit.com]
 151.101.193.140 reddit.com
 151.101.65.140 www.reddit.com
@@ -634,6 +635,11 @@
 151.101.193.140 www.redditstatic.com
 52.217.174.61 postcards.redditstatic.com
 
+# [redditstatic.com]
+151.101.193.140 redditstatic.com
+151.101.193.140 www.redditstatic.com
+52.217.174.61 postcards.redditstatic.com
+
 # [thepiratebay.org]
 162.159.136.6 m.thepiratebay.org
 162.159.137.6 www.thepiratebay.org
@@ -679,3 +685,7 @@
 172.67.202.48 yts.ag
 172.67.202.48 www.img.yts.ag
 172.67.202.48 img.yts.ag
+
+# [https://movies7.to/]
+104.21.47.118 movies7.to
+172.67.171.33 www.movies7.to

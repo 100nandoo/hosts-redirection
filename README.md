@@ -11,5 +11,5 @@ Windows instruction:
 
 Linux instruction
 1. Open terminal
-2. sudo <preferred text editor> /etc/hosts
+2. sudo [preferred text editor] /etc/hosts
 3. Paste as needed to your text editor (appending is fine)

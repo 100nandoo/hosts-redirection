@@ -11,5 +11,6 @@ Windows instruction:
 
 Linux instruction
 1. Open terminal
-2. sudo <preferred text editor> /etc/hosts
+2. sudo {preferred text editor} /etc/hosts
 3. Paste as needed to your text editor (appending is fine)
+4. For non-technical users, users can choose `gedit` as the preferred text editor since it is commonly found on linux distributions and has a UI compared to vi, nano and similar tools
